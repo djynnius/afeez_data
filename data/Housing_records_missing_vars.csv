@@ -1,0 +1,55 @@
+,PRT_ID,AREA,INT_SQFT,DATE_SALE,DIST_MAINROAD,N_BEDROOM,N_BATHROOM,N_ROOM,SALE_COND,PARK_FACIL,DATE_BUILD,BUILDTYPE,UTILITY_AVAIL,STREET,MZZONE,QS_ROOMS,QS_BATHROOM,QS_BEDROOM,QS_OVERALL,REG_FEE,COMMIS,SALES_PRICE,comment
+15,P06328,Velachery,1868,12-09-2009,148,3.0,2.0,5,Family,No,14-09-2000,Commercial,NoSewr ,Gravel,RH,3.8,3.8,3.1,,597135,188569,15714080,Missing the QS Overall variable
+46,P09483,T Nagar,1882,18-11-2006,189,2.0,1.0,5,AbNormal,Yes,23-11-1985,Others,ELO,Gravel,RM,3.9,4.5,4.7,,433393,272877,16051580,Missing the QS Overall variable
+86,P00545,Chrompet,1085,19-01-2014,149,1.0,1.0,3,AbNormal,Yes,21-01-2008,Commercial,NoSewr ,Gravel,RL,2.8,3.8,4.6,,387815,100545,14363500,Missing the QS Overall variable
+111,P06768,Adyar,1034,30-05-2009,73,1.0,1.0,3,AdjLand,Yes,03-06-1993,Others,ELO,Gravel,C,3.8,3.3,3.5,,277702,46284,9256740,Missing the QS Overall variable
+134,P00089,T Nagar,1942,20-12-2014,10,2.0,1.0,5,Family,No,29-12-1977,House,NoSeWa,Gravel,RH,4.6,3.1,2.9,,320599,61654,12330740,Missing the QS Overall variable
+143,P06226,Karapakkam,1430,02-10-2009,17,2.0,2.0,4,AbNormal,Yes,05-10-1999,Others,NoSewr ,NoAccess,A,4.3,3.2,3.8,,238887,106172,6635750,Missing the QS Overall variable
+161,P06964,Velachery,1824,03-04-2009,187,3.0,2.0,5,NormalSale,No,11-04-1976,House,NoSewr ,Paved,I,3.9,2.3,4.1,,273570,76942,8549060,Missing the QS Overall variable
+186,P08752,Adyar,738,02-09-2007,69,1.0,1.0,2,Partial,No,06-09-1989,Commercial,NoSewr ,NoAccess,I,2.4,4.7,5.0,,324194,8313,8312670,Missing the QS Overall variable
+208,P03292,Karapakkam,1578,18-04-2011,153,2.0,2.0,4,NormalSale,Yes,21-04-1998,Others,AllPub,Gravel,I,4.3,4.6,3.4,,295508,238313,9532500,Missing the QS Overall variable
+248,P04891,Velachery,1776,09-06-2010,120,2.0,1.0,4,NormalSale,Yes,14-06-1989,House,NoSeWa,Paved,RH,4.9,2.4,3.4,,319653,89903,9989170,Missing the QS Overall variable
+261,P04590,Adyar,1249,04-08-2010,93,2.0,2.0,4,AdjLand,No,09-08-1991,Commercial,NoSewr ,Paved,A,3.9,2.2,4.8,,417195,176992,12642285,Missing the QS Overall variable
+284,P03587,KK Nagar,1632,22-02-2011,156,2.0,1.0,4,Partial,Yes,27-02-1992,Others,AllPub,Gravel,RH,2.7,4.5,2.9,,514815,262661,10506420,Missing the QS Overall variable
+312,P02964,KK Nagar,2078,22-06-2011,13,3.0,2.0,5,AbNormal,No,27-06-1990,House,NoSeWa,Paved,RH,2.3,2.8,4.6,,475144,106665,9696820,Missing the QS Overall variable
+329,P01156,Anna Nagar,1585,25-11-2012,188,1.0,1.0,4,Family,No,30-11-1995,Commercial,AllPub,NoAccess,RL,2.3,4.2,2.1,,469335,104297,17382790,Missing the QS Overall variable
+355,P03358,KK Nagar,1484,09-04-2011,54,2.0,1.0,4,Partial,Yes,15-04-1984,Others,NoSewr ,Gravel,RH,3.4,2.5,4.2,,302902,224733,9771020,Missing the QS Overall variable
+402,P04597,Karapakkam,1353,03-08-2010,20,2.0,2.0,4,AbNormal,Yes,05-08-2002,Others,ELO,NoAccess,RL,3.7,2.3,2.5,,291512,77165,8573875,Missing the QS Overall variable
+437,P04897,KK Nagar,1450,09-06-2010,169,2.0,1.0,4,AdjLand,Yes,14-06-1989,Others,AllPub,Paved,RH,3.8,4.4,2.4,,431738,251011,10040420,Missing the QS Overall variable
+479,P04286,Karapakkam,984,30-09-2010,183,1.0,1.0,3,Family,Yes,03-10-1997,House,NoSewr ,NoAccess,C,2.7,2.7,4.7,,192267,48067,5340750,Missing the QS Overall variable
+513,P08647,Anna Nagar,1898,09-10-2007,111,2.0,1.0,5,AbNormal,No,19-10-1965,Others,NoSeWa,NoAccess,RM,4.4,2.5,3.2,,337128,94396,13485130,Missing the QS Overall variable
+624,P02141,Karapakkam,1352,01-12-2011,171,2.0,2.0,4,AbNormal,Yes,11-12-1968,Commercial,NoSeWa,Gravel,I,3.8,4.0,4.2,,415616,164059,10937250,Missing the QS Overall variable
+625,P02698,Anna Nagar,1510,15-08-2011,196,1.0,1.0,4,NormalSale,No,24-08-1972,Others,NoSeWa,Paved,RH,4.1,4.6,3.0,,406091,175607,10975430,Missing the QS Overall variable
+714,P03730,Anna Nagar,1914,23-01-2011,66,2.0,1.0,5,Partial,Yes,31-01-1978,House,ELO,Gravel,RL,3.6,2.7,3.2,,489460,190346,13596110,Missing the QS Overall variable
+769,P01445,Chrompet,944,02-05-2012,132,1.0,1.0,3,Family,No,05-05-2002,Commercial,NoSewr ,Paved,RL,4.8,4.6,2.5,,303251,128299,11663500,Missing the QS Overall variable
+822,P04352,Chrompet,1258,17-09-2010,78,2.0,1.0,4,Partial,No,24-09-1981,Others,ELO,NoAccess,RH,4.4,4.9,3.3,,230110,32873,8218210,Missing the QS Overall variable
+899,P02853,KK Nagar,1532,12-07-2011,60,2.0,1.0,4,Partial,Yes,15-07-1999,Commercial,NoSewr ,Paved,RH,5.0,4.0,3.1,,643461,254703,13405440,Missing the QS Overall variable
+955,P02506,Chrompet,976,21-09-2011,64,1.0,1.0,3,Family,Yes,26-09-1989,Commercial,NoSeWa,Paved,RH,4.6,4.7,2.2,,358311,71662,11943700,Missing the QS Overall variable
+993,P08954,T Nagar,1519,06-06-2007,115,1.0,1.0,4,Family,Yes,15-06-1969,Commercial,NoSewr ,NoAccess,RM,3.3,4.8,4.7,,654117,127189,18169910,Missing the QS Overall variable
+1044,P03792,KK Nagar,1896,10-01-2011,182,3.0,2.0,5,Partial,No,13-01-1997,Others,NoSeWa,Paved,RL,3.2,3.3,4.3,,460302,230151,10461400,Missing the QS Overall variable
+1142,P07495,KK Nagar,2434,23-10-2008,28,4.0,2.0,6,Partial,Yes,26-10-1996,Others,NoSeWa,Gravel,RM,2.1,4.5,2.1,,459575,272873,14361720,Missing the QS Overall variable
+1206,P09213,Anna Nagar,1952,23-02-2007,53,2.0,1.0,5,AdjLand,Yes,05-03-1965,Commercial,AllPub,NoAccess,RH,3.9,2.6,2.4,,693887,126161,21026890,Missing the QS Overall variable
+1393,P00225,Anna Nagar,2000,09-09-2014,102,2.0,1.0,5,Family,No,19-09-1972,Commercial,ELO,Paved,RL,3.9,5.0,3.1,,690587,334830,20926890,Missing the QS Overall variable
+1447,P05466,Chrompet,1171,19-02-2010,10,1.0,1.0,3,AdjLand,No,21-02-2003,Commercial,AllPub,NoAccess,RM,4.0,4.4,4.8,,449122,238596,14035050,Missing the QS Overall variable
+1528,P01678,Anna Nagar,1823,27-02-2012,45,2.0,1.0,5,AdjLand,No,04-03-1991,Others,AllPub,Paved,RH,4.0,3.7,2.0,,497660,134503,13450260,Missing the QS Overall variable
+2196,P03342,T Nagar,1639,11-04-2011,42,1.0,1.0,4,Partial,No,18-04-1980,House,ELO,Gravel,RM,3.6,3.4,2.8,,337157,192661,12041320,Missing the QS Overall variable
+2227,P08462,Chrompet,1196,24-12-2007,116,1.0,1.0,3,AbNormal,No,25-12-2002,Others,AllPub,Gravel,RM,3.5,4.5,4.3,,289517,189300,11135270,Missing the QS Overall variable
+2228,P08971,Chrompet,1225,30-05-2007,85,2.0,1.0,4,AbNormal,Yes,31-05-2000,Others,AllPub,Gravel,RH,3.8,4.5,4.7,,300146,177864,11116500,Missing the QS Overall variable
+2336,P03084,Velachery,1596,29-05-2011,99,2.0,1.0,4,Partial,Yes,11-06-1956,House,NoSeWa,Paved,RM,2.5,3.4,3.4,,375857,96374,9637350,Missing the QS Overall variable
+3870,P02851,Velachery,1752,12-07-2011,70,2.0,1.0,4,Family,No,18-07-1987,Others,AllPub,NoAccess,I,2.6,3.8,3.7,,281674,119498,8535580,Missing the QS Overall variable
+4329,P00239,Anna Nagar,1838,31-08-2014,148,2.0,1.0,5,Partial,Yes,09-09-1977,Others,ELO,Gravel,RM,2.1,2.5,4.4,,568992,254549,14973480,Missing the QS Overall variable
+4836,P05101,Velachery,1662,01-05-2010,50,2.0,1.0,4,NormalSale,Yes,08-05-1983,Commercial,ELO,Gravel,A,2.3,2.8,2.7,,526420,197407,13160490,Missing the QS Overall variable
+5104,P08589,Chrompet,1022,28-10-2007,170,1.0,1.0,3,AdjLand,Yes,01-11-1990,Commercial,NoSewr ,NoAccess,RM,2.8,4.5,3.8,,338504,81241,13540150,Missing the QS Overall variable
+5458,P02849,T Nagar,1624,13-07-2011,117,1.0,1.0,4,NormalSale,Yes,22-07-1972,Commercial,NoSewr ,Paved,RM,5.0,2.5,2.2,,670549,256386,19722030,Missing the QS Overall variable
+5463,P09431,Adyar,1277,10-12-2006,30,2.0,2.0,4,Partial,Yes,19-12-1968,House,NoSewr ,Paved,C,3.8,4.9,4.0,,251387,25139,8379570,Missing the QS Overall variable
+6111,P06239,Karapakkam,806,30-09-2009,54,1.0,1.0,2,Partial,Yes,13-10-1959,Commercial,AllPub,NoAccess,A,4.9,2.4,2.3,,164055,98433,5468500,Missing the QS Overall variable
+6134,P01332,Chormpet,916,02-08-2012,173,1.0,,3,NormalSale,Yes,12-08-1974,Others,ELO,Paved,RL,3.4,3.5,3.0,,265423,44237,8847420,Missing the QS Overall variable
+6161,P02241,Adyar,1150,08-11-2011,170,1.0,1.0,3,Family,No,11-11-1999,Commercial,ELO,NoAccess,I,2.1,4.8,2.5,,396467,104947,11660780,Missing the QS Overall variable
+6248,P03983,Karapakkam,931,30-11-2010,86,1.0,1.0,3,Family,No,06-12-1985,House,ELO,Paved,I,4.7,5.0,4.9,,169826,82340,5146250,Missing the QS Overall variable
+6855,P09225,T Nagar,1741,20-02-2007,106,1.0,1.0,4,Family,Yes,25-02-1985,Others,ELO,NoAccess,RM,3.1,4.7,4.6,,529177,167109,13925720,Missing the QS Overall variable
+70,P05304,Anna Nagar,1589,22-03-2010,39,1.0,,4,Partial,No,02-04-1966,Others,AllPub,Gravel,RL,2.1,2.5,4.5,3.16,451857,85486,12212350,Missing the Bathroom variable
+5087,P01333,Chrompet,1016,02-08-2012,105,1.0,,3,AbNormal,Yes,10-08-1980,Others,NoSewr ,Gravel,RM,3.2,4.2,2.0,3.24,330086,106479,10647920,Missing the Bathroom variable
+6134,P01332,Chormpet,916,02-08-2012,173,1.0,,3,NormalSale,Yes,12-08-1974,Others,ELO,Paved,RL,3.4,3.5,3.0,,265423,44237,8847420,Missing the Bathroom variable
+6371,P01189,Chrompet,1035,06-11-2012,90,1.0,,3,Partial,No,14-11-1981,Others,NoSeWa,NoAccess,RM,2.3,3.5,3.2,3.05,223403,24823,8274200,Missing the Bathroom variable
+6535,P09189,Anna Nagar,1864,05-03-2007,184,2.0,,5,Family,Yes,07-03-1997,Others,NoSewr ,Paved,RM,3.3,3.7,4.7,3.96,575606,124455,15556920,Missing the Bathroom variable
+4060,P01066,Anna Nagar,1556,16-01-2013,181,,1.0,4,Partial,No,23-01-1986,House,NoSewr ,NoAccess,RM,4.8,2.7,2.0,3.155,313136,107978,10797790,Missing the Bedrooom variable
