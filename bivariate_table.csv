@@ -1,0 +1,9 @@
+Variable,Type,Summary (No | Yes),Test,Statistic,p-value
+Age,Numeric,No: 25.00 [10.00-49.00] | Yes: 62.00 [52.00-72.00],Mann-Whitney U (Wilcoxon rank-sum),4906789.0,0.0
+BMI,Numeric,No: 24.30 [19.20-29.33] | Yes: 31.00 [27.03-36.12],Mann-Whitney U (Wilcoxon rank-sum),6208710.0,6.022620868568787e-274
+SystolicBP,Numeric,No: 114.00 [105.00-125.00] | Yes: 128.00 [116.00-141.00],Mann-Whitney U (Wilcoxon rank-sum),6367392.5,3.0246900055775854e-151
+DiastolicBP,Numeric,No: 67.00 [58.00-75.00] | Yes: 68.00 [60.00-77.00],Mann-Whitney U (Wilcoxon rank-sum),9847530.0,2.2728038271076673e-06
+Sex,Categorical,female: 8940 (50.4%) | 845 (49.5%) ; male: 8814 (49.6%) | 861 (50.5%),Chi-squared test of independence,0.3901950014328075,0.5321969185397497
+Race,Categorical,Black: 3980 (22.4%) | 501 (29.4%) ; Hispanic: 1924 (10.8%) | 181 (10.6%) ; Mexican: 3238 (18.2%) | 264 (15.5%) ; Other: 2064 (11.6%) | 171 (10.0%) ; White: 6548 (36.9%) | 589 (34.5%),Chi-squared test of independence,45.15793318399862,3.6864145296115585e-09
+AlcoholUse,Categorical,No: 2297 (26.1%) | 522 (35.2%) ; Yes: 6519 (73.9%) | 960 (64.8%),Chi-squared test of independence,53.1765049813243,3.04883715995706e-13
+SmokeHistory,Categorical,No: 5713 (56.6%) | 820 (49.2%) ; Yes: 4382 (43.4%) | 848 (50.8%),Chi-squared test of independence,31.716889386252106,1.7836430923184263e-08

@@ -1,0 +1,10 @@
+Variable,Type,n,Missing,Mean (SD),Median (IQR),Min-Max,Normal?,Levels
+Diabetes,Categorical (outcome),19460,0,,,,,No: 17754 (91.2%); Yes: 1706 (8.8%)
+Age,Numeric,19460,0,33.37 (24.37),30.00 (11.00-54.00),1.00-80.00,No,
+BMI,Numeric,18005,1455,25.65 (7.73),24.92 (19.79-30.10),12.40-84.87,No,
+SystolicBP,Numeric,14860,4600,118.07 (18.44),115.00 (105.00-127.00),74.00-233.00,No,
+DiastolicBP,Numeric,14860,4600,65.60 (15.63),67.00 (58.00-75.00),0.00-131.00,No,
+Sex,Categorical,19460,0,,,,,female: 9785 (50.3%); male: 9675 (49.7%)
+Race,Categorical,19460,0,,,,,White: 7137 (36.7%); Black: 4481 (23.0%); Mexican: 3502 (18.0%); Other: 2235 (11.5%); Hispanic: 2105 (10.8%)
+AlcoholUse,Categorical,10298,9162,,,,,Yes: 7479 (72.6%); No: 2819 (27.4%)
+SmokeHistory,Categorical,11763,7697,,,,,No: 6533 (55.5%); Yes: 5230 (44.5%)
